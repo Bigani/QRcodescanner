@@ -6,7 +6,7 @@
 ### Using this app to expand and develop different project.
 ### Currently testing for iOS Safari.
 
-### [Live - https://qrcodescan.in](https://qrcodescan.in) 
+### [Live - qrcodescan.in](https://qrcodescan.in) 
 
 ## Features
 

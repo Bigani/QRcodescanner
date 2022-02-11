@@ -3,6 +3,8 @@
 # [QR Code Scanner](https://qrcodescan.in)
 
 *QR Code Scanner - a simple, fast and useful progressive web application*
+Using this app to expand and develop different project.
+Currently testing for iOS Safari.
 
 ### [Live](https://qrcodescan.in)
 

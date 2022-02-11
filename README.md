@@ -22,7 +22,7 @@
 1. Clone this repo
 
   ```bash
-  git clone https://github.com/code-kotis/qr-code-scanner
+  git clone https://github.com/Bigani/QRcodescanner
   ```
 
 2. Installation
@@ -41,10 +41,6 @@
 
   ```bash
   npm run build
-  ```
-
-### Contributions
-
-If you find a bug, please file an issue. PR's are most welcome ;)
+  ``` 
 
 #### MIT Licensed
